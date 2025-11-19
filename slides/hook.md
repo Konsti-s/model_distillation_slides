@@ -1,6 +1,6 @@
 ## Model Distillation
 
-### "How to reduce model size of LLMs?"
+### "How to reduce model size of neural nets?"
 
 <img src="images/distillation.png" style="width: 30%; height: auto; margin: 20px auto; display: block;">
 
